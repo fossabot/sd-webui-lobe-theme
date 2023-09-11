@@ -326,6 +326,7 @@ $ pnpm start
 <a href="https://github.com/sidmorizon" title="sidmorizon">
   <img src="https://avatars.githubusercontent.com/u/5180361?v=4" width="50" />
 </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Flobehub%2Fsd-webui-lobe-theme?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Flobehub%2Fsd-webui-lobe-theme.svg?type=shield"/></a>
 
 <!-- CONTRIBUTION END -->
 
@@ -412,3 +413,6 @@ This project is [AGPL3](./LICENSE) licensed.
 
 [issues-shield]: https://img.shields.io/github/issues/lobehub/sd-webui-lobe-theme.svg?style=flat
 [issues-url]: https://github.com/lobehub/sd-webui-lobe-theme/issues/new/choose
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flobehub%2Fsd-webui-lobe-theme.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flobehub%2Fsd-webui-lobe-theme?ref=badge_large)
